@@ -1,0 +1,1 @@
+IMPORTANTE: Para las dos ultimas libretas de LLMs: 8_6 y 8_7. Importante: vais a necesitar un API key (Access Token) que podéis crear en la web de Hugging Face, previo registro.
